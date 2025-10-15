@@ -122,7 +122,8 @@ const participants = [
     { name: "Nitesh sirvi", roll: "23R21A05B4", year: "Third", branch: "CSE", github: "", linkedin: "" },
     { name: "Md. Ridhai kounine", roll: "24R21A66G9", year: "Second", branch: "CSM -C", github: "", linkedin: "" },
     { name: "GUGULOTH ADITHYA JADHAV", roll: "24R21A6619", year: "Second", branch: "CSM-A", github: "", linkedin: "" },
-    { name: "Aleti Vaishnavi Reddy", roll: "24R21A05GU", year: "Second", branch: "CSE-F", github: "", linkedin: "" }
+    { name: "Aleti Vaishnavi Reddy", roll: "24R21A05GU", year: "Second", branch: "CSE-F", github: "", linkedin: "" },
+    { name: "Pampari V Sarika", roll: "23R21A12H1", year: "Third", branch: "IT-C", github: "https://github.com/Sarika1016", linkedin: "https://www.linkedin.com/in/sarika-pampari-048a44306/" }
 ];
 
 // ==========================================
